@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @remichautemps
 - 👀 I’m interested in Golang, Nodejs, PHP, AWS, Microservices 
 - 🌱 I’m currently learning Temporal and Terraform
+- 💻 I work at FrankieOne - One of the best start-up in Australia
 - 🏄‍♂️🏃👦🎿
 - 📫 How to reach me: Linkedin
