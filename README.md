@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @remichautemps
-- 👀 I’m interested in Golang, Nodejs, PHP, AWS
-- 🌱 I’m currently learning Microservices 
-- 💞️ I’m looking to collaborate on any side projects
+- 👀 I’m interested in Golang, Nodejs, PHP, AWS, Microservices 
+- 🌱 I’m currently learning Temporal and Terraform
+- 🏄‍♂️🏃👦🎿
 - 📫 How to reach me: Linkedin
