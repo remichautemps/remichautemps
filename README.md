@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @remichautemps
 - 👀 I’m interested in Golang, React, Vue, Nodejs, PHP, AWS, Microservices 
-- 🌱 I’m currently building SAAS and consulting in API development, Fraud, Banking and KYC 
-- 💻 I help companies and individuals build, design and scale
+- 🌱 I’m currently building SAAS products and consulting in API development, Fraud, Banking, KYC and AdTech
+- 💻 I help companies and individuals build, design and scale their tools
 - 🏄‍♂️🏃👦🎿
 - 📫 How to reach me: Linkedin
